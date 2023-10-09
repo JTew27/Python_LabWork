@@ -63,8 +63,26 @@
 #	num= n + 2
 #	power = power +2
 
-numbers = [10,20,30,90,200,30,22,11]
+#numbers = [10,5,3,9,9,30,22,11]
+#num = 0
+#total = 0
 
-for n in numbers
+#for len in numbers:
+  #  if total > 100:
+       # break
+
+
+    #print (numbers[num]+total)
+   # total += numbers[num]
+   # num += 1
+#if total <100:
+    #print ("loop didnt end early")
+
+
+
+#colours = [ "Blue", "Black", "Orange" ]
+#print("The colour black is in the list : ", "Black" in colours)
+
+
 
 
