@@ -22,8 +22,6 @@ temp6 = six_pm.replace('c','')
 # eight_am.append(Temp)
 
 Temp = [eight_am, ten_am, twelve_pm, two_pm, four_pm, six_pm]
-#Temp = [temp8, temp10, temp12, temp2, temp4, temp6]
-#print(Temp[:-1])
 
 Temp.sort()
 #print(Temp)
