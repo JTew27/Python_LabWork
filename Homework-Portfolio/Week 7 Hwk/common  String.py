@@ -2,7 +2,7 @@ unique = [" "]
 message=str(input("Please enter a message :"))
 
 dic={ "a":"i", "e":"o", "i":"u", "o":"a", "u":"e", "b":"m", "d":"t","g":"b","m":"d","t":"g","h":"c"}
-decrypted= ""
+
 encrypted = ""
 
 for letter in message:
