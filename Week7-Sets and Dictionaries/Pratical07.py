@@ -18,7 +18,7 @@ unique_letters = {x for x in sentence if x != " "}
 #   print("name is not found on the list")
 
 staff = {"Pete", "Kelly", "Jon", "Paul", "Sally", "Sue"}
-directors = {\"Kelly", "Rupert", "Cyril", "Jon"}
+directors = {"Kelly", "Rupert", "Cyril", "Jon"}
 
 
 managers = {"Kelly", "Jon", "Paul", "Sally", "Sue"}
